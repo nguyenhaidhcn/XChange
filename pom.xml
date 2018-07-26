@@ -94,7 +94,7 @@
 		<module>xchange-acx</module>
 		<module>xchange-anx</module>
 		<module>xchange-bibox</module>
-		<module>xchange-bitbox</module>
+		<!--<module>xchange-bitbox</module>-->
 		<module>xchange-binance</module>
 		<module>xchange-bitbay</module>
 		<module>xchange-bitcoinaverage</module>

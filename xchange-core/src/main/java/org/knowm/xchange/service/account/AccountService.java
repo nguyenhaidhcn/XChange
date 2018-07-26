@@ -45,7 +45,7 @@ public interface AccountService extends BaseService {
     throw new NotYetImplementedForExchangeException();
   }
 
-  default Balance getBalance(Currency currency) throws IOException {
+  default List<Balance> getBalances() throws IOException {
     throw new NotYetImplementedForExchangeException();
   }
 
